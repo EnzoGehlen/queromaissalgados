@@ -1,0 +1,66 @@
+
+.chamada-banner{
+    color: coral;
+    background-color: rgba(0,0,0,0.2);
+   font-size: 200%;
+   font-family: 'Vidaloka', serif;
+    
+}
+
+.culinaria{
+    color: coral !important;
+    font-family: 'Vidaloka', serif;
+    
+}
+
+p.depoimento{
+    color: coral !important;
+    font-family: 'Vidaloka', serif;
+}
+
+p.escrita{
+    font-style: italic;
+    line-height: 150%;
+}
+
+h1, h2.depoimento{
+    font-family: 'Vidaloka', serif;
+}
+
+.items{
+    font-size: 150%;
+   font-family: 'Vidaloka', serif;
+}
+
+.uk-card-salmao{
+    background-color: rgb(255, 234, 226);;
+}
+
+.uk-button-salmao{
+    background-color: #fda787;
+    color: #FFF !important;
+}
+
+.uk-button-salmao:hover{
+    background-color: rgb(255, 234, 226);;
+    color: #fda787 !important;
+}
+
+.caixaBanner{
+    width: 100%;
+    height: 30%;
+}
+
+.half-circle-line {
+    position: absolute;
+    top: 100%;
+    margin-top: -40px;
+    width: 100%;
+    z-index: 5;
+    text-align: center;
+}
+
+.half-circle-line svg g > * {
+    fill: #fff;
+    stroke: #fff;
+}
