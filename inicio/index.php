@@ -37,12 +37,23 @@
                             <li><a class="uk-button uk-button-text" href="#oquefaremos" uk-scroll>O que faremos?</a>
                             </li>
                             <li><a class="uk-button uk-button-text" href="">Contato</a></li>
-                            <li class='uk-margin-large-left'><a class=' uk-left uk-button-default uk-button-salmao'
-                                    href="">Faça aqui sua inscrição</a></li>
+                            <li class='uk-margin-large-left'></li>
                         </ul>
                         <a class="uk-navbar-toggle uk-navbar-item uk-hidden@s" data-uk-toggle data-uk-navbar-toggle-icon
                             href="#offcanvas-nav"></a>
                     </div>
+
+                    <div class="uk-navbar-right">
+                        <ul class='uk-navbar-nav'>
+                            <li>
+
+                                <a class='uk-button-default uk-button-salmao' href="">Faça aqui sua inscrição</a>
+                            </li>
+
+                        </ul>
+
+                    </div>
+
                 </nav>
             </div>
         </div>
@@ -233,8 +244,8 @@
                 <div class="uk-card-body  uk-padding-large">
                     <h1 class="uk-padding uk-heading-large culinaria ">A culinária de uma forma que você nunca viu!</h1>
                     <div style='background-color: rgba(255,128,128, 0.2)' class="uk-padding">
-                        <p class="items"><i style='color: coral;'
-                                class="fa fa-calendar fa-2x uk-padding-small"></i>7 DIAS DE CURSO INTENSIVO;
+                        <p class="items"><i style='color: coral;' class="fa fa-calendar fa-2x uk-padding-small"></i>7
+                            DIAS DE CURSO INTENSIVO;
                             <p class="items"><i style='color: coral;'
                                     class="fa fa-certificate fa-2x uk-padding-small"></i>CERTIFICADO E APOSTILA COM
                                 TODAS AS RECEITAS ENTREGUE NO FINAL DO CURSO;
@@ -298,12 +309,14 @@
 
         <div class="uk-container">
 
-            <div class="uk-section uk-padding-remove-bottom uk-section-default" style="background-color: rgba(0,0,0,0.0)">
+            <div class="uk-section uk-padding-remove-bottom uk-section-default"
+                style="background-color: rgba(0,0,0,0.0)">
                 <p class='uk-margin-remove-bottom uk-text-center depoimento'>Agenda atualizada</p>
                 <h1 class="uk-margin-remove-top uk-margin-remove-bottom uk-text-center uk-heading-large depoimento">Veja
                     uma prévia de cada dia
                 </h1>
-                <div class="uk-text-center uk-margin-remove-top uk-margin-remove-bottom uk-padding-top uk-child-width-1-3@m">
+                <div
+                    class="uk-text-center uk-margin-remove-top uk-margin-remove-bottom uk-padding-top uk-child-width-1-3@m">
                     <span class="uk-icon  uk-height-small uk-text-center uk-icon-image"
                         style="background-image: url(../img/icon-main2.png); background-size: 35px 35px;"></span>
                 </div>
@@ -326,431 +339,411 @@
                     <ul class='uk-padding-remove'>
                         <li class='cardapioDiario uk-flex uk-margin-top'>
                             <div>
-                                <img style='max-width: 204px; min-width: 204px; max-height:136px; min-height: 136px;' src="../img/1.jpg" alt="">
+                                <img style='max-width: 204px; min-width: 204px; max-height:136px; min-height: 136px;'
+                                    src="../img/1.jpg" alt="">
                             </div>
                             <div class='uk-margin-large-left uk-margin-top'>
                                 <h2>
                                     Bolos variados com cobertura
                                 </h2>
                                 <p class='depoimento'>
-                                <i style='color: coral;'
-                                class="fa fa-calendar fa-1x "></i>
-                                20 mar, 2020
+                                    <i style='color: coral;' class="fa fa-calendar fa-1x "></i>
+                                    20 mar, 2020
 
-                                <i style='color: coral;'
-                                class="uk-margin-left fa fa-clock-o fa-1x "></i>
-                                07:30
+                                    <i style='color: coral;' class="uk-margin-left fa fa-clock-o fa-1x "></i>
+                                    07:30
                                 </p>
                             </div>
 
                         </li>
                         <li class='cardapioDiario uk-flex uk-margin-top'>
                             <div>
-                                <img style='max-width: 204px; min-width: 204px; max-height:136px; min-height: 136px;' src="../img/2.jpg" alt="">
+                                <img style='max-width: 204px; min-width: 204px; max-height:136px; min-height: 136px;'
+                                    src="../img/2.jpg" alt="">
                             </div>
                             <div class='uk-margin-large-left uk-margin-top'>
                                 <h2>
                                     Tortas de maçã
                                 </h2>
                                 <p class='depoimento'>
-                                <i style='color: coral;'
-                                class="fa fa-calendar fa-1x "></i>
-                                20 mar, 2020
+                                    <i style='color: coral;' class="fa fa-calendar fa-1x "></i>
+                                    20 mar, 2020
 
-                                <i style='color: coral;'
-                                class="uk-margin-left fa fa-clock-o fa-1x "></i>
-                                09:00
+                                    <i style='color: coral;' class="uk-margin-left fa fa-clock-o fa-1x "></i>
+                                    09:00
                                 </p>
                             </div>
 
                         </li>
                         <li class='cardapioDiario uk-flex uk-margin-top'>
                             <div>
-                                <img style='max-width: 204px; min-width: 204px; max-height:136px; min-height:136px;' src="../img/3.jpg" alt="">
+                                <img style='max-width: 204px; min-width: 204px; max-height:136px; min-height:136px;'
+                                    src="../img/3.jpg" alt="">
                             </div>
                             <div class='uk-margin-large-left uk-margin-top'>
                                 <h2>
                                     Tortas de banana
                                 </h2>
                                 <p class='depoimento'>
-                                <i style='color: coral;'
-                                class="fa fa-calendar fa-1x "></i>
-                                20 mar, 2020
+                                    <i style='color: coral;' class="fa fa-calendar fa-1x "></i>
+                                    20 mar, 2020
 
-                                <i style='color: coral;'
-                                class="uk-margin-left fa fa-clock-o fa-1x "></i>
-                                10:30
+                                    <i style='color: coral;' class="uk-margin-left fa fa-clock-o fa-1x "></i>
+                                    10:30
                                 </p>
                             </div>
 
                         </li>
-                        
+
                     </ul>
                 </li>
                 <li>
                     <ul class='uk-padding-remove'>
-                    <li class='cardapioDiario uk-flex uk-margin-top'>
+                        <li class='cardapioDiario uk-flex uk-margin-top'>
                             <div>
-                                <img style='max-width: 204px; min-width: 204px; max-height:136px; min-height: 136px;' src="../img/video-image.jpg" alt="">
+                                <img style='max-width: 204px; min-width: 204px; max-height:136px; min-height: 136px;'
+                                    src="../img/video-image.jpg" alt="">
                             </div>
                             <div class='uk-margin-large-left uk-margin-top'>
                                 <h2>
                                     Bolachinhas diversas
                                 </h2>
                                 <p class='depoimento'>
-                                <i style='color: coral;'
-                                class="fa fa-calendar fa-1x "></i>
-                                21 mar, 2020
+                                    <i style='color: coral;' class="fa fa-calendar fa-1x "></i>
+                                    21 mar, 2020
 
-                                <i style='color: coral;'
-                                class="uk-margin-left fa fa-clock-o fa-1x "></i>
-                                07:30
+                                    <i style='color: coral;' class="uk-margin-left fa fa-clock-o fa-1x "></i>
+                                    07:30
                                 </p>
                             </div>
 
                         </li>
                         <li class='cardapioDiario uk-flex uk-margin-top'>
                             <div>
-                                <img style='max-width: 204px; min-width: 204px; max-height:136px; min-height: 136px;' src="../img/video-image.jpg" alt="">
+                                <img style='max-width: 204px; min-width: 204px; max-height:136px; min-height: 136px;'
+                                    src="../img/video-image.jpg" alt="">
                             </div>
                             <div class='uk-margin-large-left uk-margin-top'>
                                 <h2>
                                     Grostoli
                                 </h2>
                                 <p class='depoimento'>
-                                <i style='color: coral;'
-                                class="fa fa-calendar fa-1x "></i>
-                                21 mar, 2020
+                                    <i style='color: coral;' class="fa fa-calendar fa-1x "></i>
+                                    21 mar, 2020
 
-                                <i style='color: coral;'
-                                class="uk-margin-left fa fa-clock-o fa-1x "></i>
-                                09:00
+                                    <i style='color: coral;' class="uk-margin-left fa fa-clock-o fa-1x "></i>
+                                    09:00
                                 </p>
                             </div>
 
                         </li>
                         <li class='cardapioDiario uk-flex uk-margin-top'>
                             <div>
-                                <img style='max-width: 204px; min-width: 204px; max-height:136px; min-height: 136px;' src="../img/video-image.jpg" alt="">
+                                <img style='max-width: 204px; min-width: 204px; max-height:136px; min-height: 136px;'
+                                    src="../img/video-image.jpg" alt="">
                             </div>
                             <div class='uk-margin-large-left uk-margin-top'>
                                 <h2>
                                     Caldas
                                 </h2>
                                 <p class='depoimento'>
-                                <i style='color: coral;'
-                                class="fa fa-calendar fa-1x "></i>
-                                21 mar, 2020
+                                    <i style='color: coral;' class="fa fa-calendar fa-1x "></i>
+                                    21 mar, 2020
 
-                                <i style='color: coral;'
-                                class="uk-margin-left fa fa-clock-o fa-1x "></i>
-                                10:30
+                                    <i style='color: coral;' class="uk-margin-left fa fa-clock-o fa-1x "></i>
+                                    10:30
                                 </p>
                             </div>
 
                         </li>
                         <li class='cardapioDiario uk-flex uk-margin-top'>
                             <div>
-                                <img style='max-width: 204px; min-width: 204px; max-height:136px; min-height: 136px;' src="../img/video-image.jpg" alt="">
+                                <img style='max-width: 204px; min-width: 204px; max-height:136px; min-height: 136px;'
+                                    src="../img/video-image.jpg" alt="">
                             </div>
                             <div class='uk-margin-large-left uk-margin-top'>
                                 <h2>
                                     Massas folhadas
                                 </h2>
                                 <p class='depoimento'>
-                                <i style='color: coral;'
-                                class="fa fa-calendar fa-1x "></i>
-                                21 mar, 2020
+                                    <i style='color: coral;' class="fa fa-calendar fa-1x "></i>
+                                    21 mar, 2020
 
-                                <i style='color: coral;'
-                                class="uk-margin-left fa fa-clock-o fa-1x "></i>
-                                11:00
+                                    <i style='color: coral;' class="uk-margin-left fa fa-clock-o fa-1x "></i>
+                                    11:00
                                 </p>
                             </div>
 
                         </li>
-                        
+
                     </ul>
                 </li>
                 <li>
                     <ul class='uk-padding-remove'>
                         <li class='cardapioDiario uk-flex uk-margin-top'>
                             <div>
-                                <img style='max-width: 204px; min-width: 204px; max-height:136px; min-height: 136px;' src="../img/video-image.jpg" alt="">
+                                <img style='max-width: 204px; min-width: 204px; max-height:136px; min-height: 136px;'
+                                    src="../img/video-image.jpg" alt="">
                             </div>
                             <div class='uk-margin-large-left uk-margin-top'>
                                 <h2>
-                                   Risoles
+                                    Risoles
                                 </h2>
                                 <p class='depoimento'>
-                                <i style='color: coral;'
-                                class="fa fa-calendar fa-1x "></i>
-                                20 mar, 2020
+                                    <i style='color: coral;' class="fa fa-calendar fa-1x "></i>
+                                    20 mar, 2020
 
-                                <i style='color: coral;'
-                                class="uk-margin-left fa fa-clock-o fa-1x "></i>
-                                07:30
+                                    <i style='color: coral;' class="uk-margin-left fa fa-clock-o fa-1x "></i>
+                                    07:30
                                 </p>
                             </div>
 
                         </li>
                         <li class='cardapioDiario uk-flex uk-margin-top'>
                             <div>
-                                <img style='max-width: 204px; min-width: 204px; max-height:136px; min-height: 136px;' src="../img/video-image.jpg" alt="">
+                                <img style='max-width: 204px; min-width: 204px; max-height:136px; min-height: 136px;'
+                                    src="../img/video-image.jpg" alt="">
                             </div>
                             <div class='uk-margin-large-left uk-margin-top'>
                                 <h2>
                                     Montagem de massas folhadas
                                 </h2>
                                 <p class='depoimento'>
-                                <i style='color: coral;'
-                                class="fa fa-calendar fa-1x "></i>
-                                20 mar, 2020
+                                    <i style='color: coral;' class="fa fa-calendar fa-1x "></i>
+                                    20 mar, 2020
 
-                                <i style='color: coral;'
-                                class="uk-margin-left fa fa-clock-o fa-1x "></i>
-                                07:30
+                                    <i style='color: coral;' class="uk-margin-left fa fa-clock-o fa-1x "></i>
+                                    07:30
                                 </p>
                             </div>
 
                         </li>
                         <li class='cardapioDiario uk-flex uk-margin-top'>
                             <div>
-                                <img style='max-width: 204px; min-width: 204px; max-height:136px; min-height: 136px;' src="../img/video-image.jpg" alt="">
+                                <img style='max-width: 204px; min-width: 204px; max-height:136px; min-height: 136px;'
+                                    src="../img/video-image.jpg" alt="">
                             </div>
                             <div class='uk-margin-large-left uk-margin-top'>
                                 <h2>
                                     Cucas rápidas
                                 </h2>
                                 <p class='depoimento'>
-                                <i style='color: coral;'
-                                class="fa fa-calendar fa-1x "></i>
-                                20 mar, 2020
+                                    <i style='color: coral;' class="fa fa-calendar fa-1x "></i>
+                                    20 mar, 2020
 
-                                <i style='color: coral;'
-                                class="uk-margin-left fa fa-clock-o fa-1x "></i>
-                                07:30
+                                    <i style='color: coral;' class="uk-margin-left fa fa-clock-o fa-1x "></i>
+                                    07:30
                                 </p>
                             </div>
 
                         </li>
                         <li class='cardapioDiario uk-flex uk-margin-top'>
                             <div>
-                                <img style='max-width: 204px; min-width: 204px; max-height:136px; min-height: 136px;' src="../img/video-image.jpg" alt="">
+                                <img style='max-width: 204px; min-width: 204px; max-height:136px; min-height: 136px;'
+                                    src="../img/video-image.jpg" alt="">
                             </div>
                             <div class='uk-margin-large-left uk-margin-top'>
                                 <h2>
                                     Recheios diversos
                                 </h2>
                                 <p class='depoimento'>
-                                <i style='color: coral;'
-                                class="fa fa-calendar fa-1x "></i>
-                                20 mar, 2020
+                                    <i style='color: coral;' class="fa fa-calendar fa-1x "></i>
+                                    20 mar, 2020
 
-                                <i style='color: coral;'
-                                class="uk-margin-left fa fa-clock-o fa-1x "></i>
-                                07:30
+                                    <i style='color: coral;' class="uk-margin-left fa fa-clock-o fa-1x "></i>
+                                    07:30
                                 </p>
                             </div>
 
                         </li>
-                        
+
                     </ul>
                 </li>
                 <li>
                     <ul class='uk-padding-remove'>
                         <li class='cardapioDiario uk-flex uk-margin-top'>
                             <div>
-                                <img style='max-width: 204px; min-width: 204px; max-height:136px; min-height: 136px;' src="../img/video-image.jpg" alt="">
+                                <img style='max-width: 204px; min-width: 204px; max-height:136px; min-height: 136px;'
+                                    src="../img/video-image.jpg" alt="">
                             </div>
                             <div class='uk-margin-large-left uk-margin-top'>
                                 <h2>
                                     Torta de requeijão
                                 </h2>
                                 <p class='depoimento'>
-                                <i style='color: coral;'
-                                class="fa fa-calendar fa-1x "></i>
-                                20 mar, 2020
+                                    <i style='color: coral;' class="fa fa-calendar fa-1x "></i>
+                                    20 mar, 2020
 
-                                <i style='color: coral;'
-                                class="uk-margin-left fa fa-clock-o fa-1x "></i>
-                                07:30
+                                    <i style='color: coral;' class="uk-margin-left fa fa-clock-o fa-1x "></i>
+                                    07:30
                                 </p>
                             </div>
 
                         </li>
                         <li class='cardapioDiario uk-flex uk-margin-top'>
                             <div>
-                                <img style='max-width: 204px; min-width: 204px; max-height:136px; min-height: 136px;' src="../img/video-image.jpg" alt="">
+                                <img style='max-width: 204px; min-width: 204px; max-height:136px; min-height: 136px;'
+                                    src="../img/video-image.jpg" alt="">
                             </div>
                             <div class='uk-margin-large-left uk-margin-top'>
                                 <h2>
                                     Morangos trufados
                                 </h2>
                                 <p class='depoimento'>
-                                <i style='color: coral;'
-                                class="fa fa-calendar fa-1x "></i>
-                                20 mar, 2020
+                                    <i style='color: coral;' class="fa fa-calendar fa-1x "></i>
+                                    20 mar, 2020
 
-                                <i style='color: coral;'
-                                class="uk-margin-left fa fa-clock-o fa-1x "></i>
-                                07:30
+                                    <i style='color: coral;' class="uk-margin-left fa fa-clock-o fa-1x "></i>
+                                    07:30
                                 </p>
                             </div>
 
                         </li>
                         <li class='cardapioDiario uk-flex uk-margin-top'>
                             <div>
-                                <img style='max-width: 204px; min-width: 204px; max-height:136px; min-height: 136px;' src="../img/video-image.jpg" alt="">
+                                <img style='max-width: 204px; min-width: 204px; max-height:136px; min-height: 136px;'
+                                    src="../img/video-image.jpg" alt="">
                             </div>
                             <div class='uk-margin-large-left uk-margin-top'>
                                 <h2>
                                     Torta de abacaxi
                                 </h2>
                                 <p class='depoimento'>
-                                <i style='color: coral;'
-                                class="fa fa-calendar fa-1x "></i>
-                                20 mar, 2020
+                                    <i style='color: coral;' class="fa fa-calendar fa-1x "></i>
+                                    20 mar, 2020
 
-                                <i style='color: coral;'
-                                class="uk-margin-left fa fa-clock-o fa-1x "></i>
-                                07:30
+                                    <i style='color: coral;' class="uk-margin-left fa fa-clock-o fa-1x "></i>
+                                    07:30
                                 </p>
                             </div>
 
                         </li>
-                        
+
                     </ul>
                 </li>
                 <li>
                     <ul class='uk-padding-remove'>
                         <li class='cardapioDiario uk-flex uk-margin-top'>
                             <div>
-                                <img style='max-width: 204px; min-width: 204px; max-height:136px; min-height: 136px;' src="../img/video-image.jpg" alt="">
+                                <img style='max-width: 204px; min-width: 204px; max-height:136px; min-height: 136px;'
+                                    src="../img/video-image.jpg" alt="">
                             </div>
                             <div class='uk-margin-large-left uk-margin-top'>
                                 <h2>
                                     Pão de ló
                                 </h2>
                                 <p class='depoimento'>
-                                <i style='color: coral;'
-                                class="fa fa-calendar fa-1x "></i>
-                                20 mar, 2020
+                                    <i style='color: coral;' class="fa fa-calendar fa-1x "></i>
+                                    20 mar, 2020
 
-                                <i style='color: coral;'
-                                class="uk-margin-left fa fa-clock-o fa-1x "></i>
-                                07:30
+                                    <i style='color: coral;' class="uk-margin-left fa fa-clock-o fa-1x "></i>
+                                    07:30
                                 </p>
                             </div>
 
                         </li>
                         <li class='cardapioDiario uk-flex uk-margin-top'>
                             <div>
-                                <img style='max-width: 204px; min-width: 204px; max-height:136px; min-height: 136px;' src="../img/video-image.jpg" alt="">
+                                <img style='max-width: 204px; min-width: 204px; max-height:136px; min-height: 136px;'
+                                    src="../img/video-image.jpg" alt="">
                             </div>
                             <div class='uk-margin-large-left uk-margin-top'>
                                 <h2>
                                     Merengão assado
                                 </h2>
                                 <p class='depoimento'>
-                                <i style='color: coral;'
-                                class="fa fa-calendar fa-1x "></i>
-                                20 mar, 2020
+                                    <i style='color: coral;' class="fa fa-calendar fa-1x "></i>
+                                    20 mar, 2020
 
-                                <i style='color: coral;'
-                                class="uk-margin-left fa fa-clock-o fa-1x "></i>
-                                07:30
+                                    <i style='color: coral;' class="uk-margin-left fa fa-clock-o fa-1x "></i>
+                                    07:30
                                 </p>
                             </div>
 
                         </li>
                         <li class='cardapioDiario uk-flex uk-margin-top'>
                             <div>
-                                <img style='max-width: 204px; min-width: 204px; max-height:136px; min-height: 136px;' src="../img/video-image.jpg" alt="">
+                                <img style='max-width: 204px; min-width: 204px; max-height:136px; min-height: 136px;'
+                                    src="../img/video-image.jpg" alt="">
                             </div>
                             <div class='uk-margin-large-left uk-margin-top'>
                                 <h2>
                                     Chantily
                                 </h2>
                                 <p class='depoimento'>
-                                <i style='color: coral;'
-                                class="fa fa-calendar fa-1x "></i>
-                                20 mar, 2020
+                                    <i style='color: coral;' class="fa fa-calendar fa-1x "></i>
+                                    20 mar, 2020
 
-                                <i style='color: coral;'
-                                class="uk-margin-left fa fa-clock-o fa-1x "></i>
-                                07:30
+                                    <i style='color: coral;' class="uk-margin-left fa fa-clock-o fa-1x "></i>
+                                    07:30
                                 </p>
                             </div>
 
                         </li>
                         <li class='cardapioDiario uk-flex uk-margin-top'>
                             <div>
-                                <img style='max-width: 204px; min-width: 204px; max-height:136px; min-height: 136px;' src="../img/video-image.jpg" alt="">
+                                <img style='max-width: 204px; min-width: 204px; max-height:136px; min-height: 136px;'
+                                    src="../img/video-image.jpg" alt="">
                             </div>
                             <div class='uk-margin-large-left uk-margin-top'>
                                 <h2>
                                     Coberturas
                                 </h2>
                                 <p class='depoimento'>
-                                <i style='color: coral;'
-                                class="fa fa-calendar fa-1x "></i>
-                                20 mar, 2020
+                                    <i style='color: coral;' class="fa fa-calendar fa-1x "></i>
+                                    20 mar, 2020
 
-                                <i style='color: coral;'
-                                class="uk-margin-left fa fa-clock-o fa-1x "></i>
-                                07:30
+                                    <i style='color: coral;' class="uk-margin-left fa fa-clock-o fa-1x "></i>
+                                    07:30
                                 </p>
                             </div>
 
                         </li>
-                        
+
                     </ul>
                 </li>
                 <li>
                     <ul class='uk-padding-remove'>
                         <li class='cardapioDiario uk-flex uk-margin-top'>
                             <div>
-                                <img style='max-width: 204px; min-width: 204px; max-height:136px; min-height: 136px;' src="../img/video-image.jpg" alt="">
+                                <img style='max-width: 204px; min-width: 204px; max-height:136px; min-height: 136px;'
+                                    src="../img/video-image.jpg" alt="">
                             </div>
                             <div class='uk-margin-large-left uk-margin-top'>
                                 <h2>
                                     Confraternização final
                                 </h2>
                                 <p class='depoimento'>
-                                <i style='color: coral;'
-                                class="fa fa-calendar fa-1x "></i>
-                                20 mar, 2020
+                                    <i style='color: coral;' class="fa fa-calendar fa-1x "></i>
+                                    20 mar, 2020
 
-                                <i style='color: coral;'
-                                class="uk-margin-left fa fa-clock-o fa-1x "></i>
-                                07:30
+                                    <i style='color: coral;' class="uk-margin-left fa fa-clock-o fa-1x "></i>
+                                    07:30
                                 </p>
                             </div>
 
                         </li>
                         <li class='cardapioDiario uk-flex uk-margin-top'>
                             <div>
-                                <img style='max-width: 204px; min-width: 204px; max-height:136px; min-height: 136px;' src="../img/video-image.jpg" alt="">
+                                <img style='max-width: 204px; min-width: 204px; max-height:136px; min-height: 136px;'
+                                    src="../img/video-image.jpg" alt="">
                             </div>
                             <div class='uk-margin-large-left uk-margin-top'>
                                 <h2>
                                     Entrega dos certificados e apostila
                                 </h2>
                                 <p class='depoimento'>
-                                <i style='color: coral;'
-                                class="fa fa-calendar fa-1x "></i>
-                                20 mar, 2020
+                                    <i style='color: coral;' class="fa fa-calendar fa-1x "></i>
+                                    20 mar, 2020
 
-                                <i style='color: coral;'
-                                class="uk-margin-left fa fa-clock-o fa-1x "></i>
-                                07:30
+                                    <i style='color: coral;' class="uk-margin-left fa fa-clock-o fa-1x "></i>
+                                    07:30
                                 </p>
                             </div>
 
                         </li>
-                        
-                        
+
+
                     </ul>
                 </li>
             </ul>
