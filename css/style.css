@@ -14,8 +14,16 @@
 }
 
 p.depoimento{
-    color: coral !important;
+    color: coral ;
    
+}
+
+.preto {
+    color: black !important;
+}
+
+.branco {
+    color:#FFF !important;
 }
 
 .cardapioDiario h2{
@@ -46,6 +54,18 @@ h1, h2.depoimento{
 }
 
 .uk-button-salmao:hover{
+    background-color: rgb(255, 234, 226);;
+    color: #fda787 !important;
+}
+
+
+.uk-button-salmao-redondo{
+    background-color: #FFF;
+    color: coral !important;
+    border-radius: 100px;
+}
+
+.uk-button-salmao-redondo:hover{
     background-color: rgb(255, 234, 226);;
     color: #fda787 !important;
 }
@@ -88,6 +108,10 @@ h1, h2.depoimento{
     background-color: #FFF;
     border: 1px solid coral;
     height: 50px;
+}
+
+.desconto{
+    background-color: rgba(233, 150, 122, 0.75);
 }
 
 .uk-grid{

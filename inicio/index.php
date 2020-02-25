@@ -36,7 +36,7 @@
                             <li><a class="uk-button uk-button-text" href="#quemsomos" uk-scroll>Quem somos?</a></li>
                             <li><a class="uk-button uk-button-text" href="#oquefaremos" uk-scroll>O que faremos?</a>
                             </li>
-                            <li><a class="uk-button uk-button-text" href="">Contato</a></li>
+                            <li><a class="uk-button uk-button-text" href="#contato" uk-scroll>Contato</a></li>
                             <li class='uk-margin-large-left'></li>
                         </ul>
                         <a class="uk-navbar-toggle uk-navbar-item uk-hidden@s" data-uk-toggle data-uk-navbar-toggle-icon
@@ -150,7 +150,7 @@
 
             </div>
 
-        </div>
+            </div>
 
 
 
@@ -167,10 +167,7 @@
                     que
                     são parte deste
                     projeto</h1>
-                <div class="uk-text-center uk-padding uk-child-width-1-3@m">
-                    <span class='uk-text-emphasis' uk-icon="icon: location; ratio: 2"></span>
-
-                </div>
+                
 
 
                 <div class="uk-child-width-1-2@m uk-padding-top" uk-grid>
@@ -303,7 +300,7 @@
     </div>
 
 
-    <div id='oquefaremos' class="uk-section uk-margin-remove-top"
+    <div id='oquefaremos' class="uk-section uk-margin-remove-top uk-padding-remove-bottom"
         style="background-image: url(../img/6194.png); background-repeat: repeat;">
 
 
@@ -748,6 +745,84 @@
                 </li>
             </ul>
         </div>
+        <div class="desconto uk-margin-large-top uk-margin-remove-bottom">
+            <div class="uk-container uk-padding-large uk-margin-remove-bottom ">
+            <div class="uk-float-right">
+                        <ul class='uk-navbar-nav'>
+                            <li>
+
+                                <a class='uk-button-default uk-button-salmao-redondo' href="">Faça aqui sua inscrição</a>
+                            </li>
+
+                        </ul>
+
+                </div>
+                <div class="uk-float-left">
+                <h1 class='branco'>
+                    Que tal ganhar 80% de desconto?
+                </h1>
+                <p  class="depoimento preto">
+                    Pagando à vista no boleto, você paga somente 80% do valor do curso!!
+                </p>
+
+                </div>
+               
+
+                
+            
+            </div>
+        </div>
+        
+    </div>
+
+    
+
+    <div class="uk-section-secondary uk-padding-remove-top">
+
+
+        <div class="uk-container">
+
+            <div id='contato' class="uk-section  uk-section-default" style="background-color: rgba(0,0,0,0.0)">
+
+               
+
+
+                <div class="uk-child-width-1-3@m uk-padding-top" uk-grid>
+                    <div class='uk-padding-remove-left'>
+                        <h3>Restou alguma dúvida?</h3>
+                        <h5 class='uk-margin-bottom-large uk-margin-remove-top' >Entre em contato conosco:</h5>
+                        <p  class='depoimento'>
+                            <i style='color: coral;' class="fa fa-map-marker fa-1x "></i>
+                                    <a style='color: coral' href="https://www.google.com/maps/place/Av.+14+De+Marco,+500+-+Eldorado,+Primavera+do+Leste+-+MT,+78850-000/@-15.5525879,-54.2909612,17z/data=!3m1!4b1!4m5!3m4!1s0x937725c4329b14e3:0x3aed070b65362c6f!8m2!3d-15.552592!4d-54.289224">Avenida Quatorzre de Março, XX - Bairro Parque Eldorado, Primavera do Leste - MT </a> 
+                        </p>
+                        <p class='depoimento'>
+                            <i style='color: coral;' class="fa fa-phone fa-1x "></i>
+                                (66) 9 9623-5380
+                        </p>
+
+                        <p class='depoimento'>
+                            <i style='color: coral;' class="fa fa-envelope fa-1x "></i>
+                                <a href="mailto:contato@queromaissalgados.com.br">contato@queromaissalgados.com.br</a>  
+                        </p>
+                    </div>
+                    
+                    <div>
+                        
+                    </div>
+
+                    <div>
+                        <h3>Visite nossas redes sociais</h3>
+                        <a style='color: coral;' href="https://www.instagram.com/quero.mais_salgados/" class="uk-icon-button uk-margin-small-right" uk-icon="instagram"></a>
+                        <a style='color: coral;' href="https://www.facebook.com/QUERO-MAIS-Salgados-2424305101138693/" class="uk-icon-button  uk-margin-small-right" uk-icon="facebook"></a>
+                        <a style='color: coral;' href="https://api.whatsapp.com/send?phone=5566996235380&text=Ol%C3%A1!%20Acessei%20o%20site%20e%20desejo%20saber%20mais%20sobre%20o%20curso%20de%20culin%C3%A1ria." class="uk-icon-button" uk-icon="whatsapp"></a>
+                    </div>
+
+                </div>
+            </div>
+            <hr class="uk-divider-icon">
+            <p class='uk-text-center uk-margin-bottom'>2020. Desenvolvido por <a class='uk-link-heading' href="mailto:enzogehlen@hotmail.com"> Enzo Gehlen</a>. </p>
+        </div>
+
     </div>
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
