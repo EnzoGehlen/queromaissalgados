@@ -47,7 +47,7 @@
                         <ul class='uk-navbar-nav'>
                             <li>
 
-                                <a class='uk-button-default uk-button-salmao' href="">Faça aqui sua inscrição</a>
+                                <a class='uk-button-default uk-button-salmao' href="../inscricao">Faça aqui sua inscrição</a>
                             </li>
 
                         </ul>
@@ -62,7 +62,7 @@
             <ul class="uk-slideshow-items">
                 <li>
                     <div class="uk-position-cover uk-animation-reverse uk-transform-origin-center-left">
-                        <img src="http://webdesign-finder.com/kruton/wp-content/uploads/2018/12/slide_01.jpg" alt=""
+                        <img src="../img/slide_02.jpg" alt=""
                             uk-cover>
                         <div
                             class="uk-visible@s uk-position-center caixaBanner uk-position-small uk-text-center uk-light">
@@ -110,15 +110,52 @@
                     </div>
                 </li>
                 <li>
-                    <div class="uk-position-cover  uk-animation-reverse uk-transform-origin-top-right">
-                        <img src="http://webdesign-finder.com/kruton/wp-content/uploads/2018/12/slide_02.jpg" alt=""
+                    <div class="uk-position-cover uk-animation-reverse uk-transform-origin-center-left">
+                        <img src="../img/slide_03.jpg" alt=""
                             uk-cover>
-                    </div>
-                </li>
-                <li>
-                    <div class="uk-position-cover  uk-animation-reverse uk-transform-origin-bottom-left">
-                        <img src="http://webdesign-finder.com/kruton/wp-content/uploads/2018/12/slide_03.jpg" alt=""
-                            uk-cover>
+                        <div
+                            class="uk-visible@s uk-position-center caixaBanner uk-position-small uk-text-center uk-light">
+                            <div class='uk-position-top-center'>
+                                <p class="chamada-banner uk-padding-bottom">Cozinhar bem não precisa ser um bicho de
+                                    sete
+                                    cabeças, nós
+                                    vamos provar isso!</p>
+                                <h1 class="uk-text-center turmaTexto uk-margin-bottom">Próxima turma começa em:</h1>
+
+
+                            </div>
+                            <div class='uk-position-bottom-center'>
+                                <div class="uk-grid-small uk-text-center uk-child-width-auto" uk-grid
+                                    uk-countdown="date: 2020-03-20T07:00:00+00:00">
+                                    <div>
+                                        <div class="uk-countdown-number uk-countdown-days"></div>
+                                        <div class="uk-countdown-label uk-margin-small uk-text-center uk-visible@s">Dias
+                                        </div>
+                                    </div>
+                                    <div class="uk-countdown-separator">:</div>
+                                    <div>
+                                        <div class="uk-countdown-number uk-countdown-hours"></div>
+                                        <div class="uk-countdown-label uk-margin-small uk-text-center uk-visible@s">
+                                            Horas
+                                        </div>
+                                    </div>
+                                    <div class="uk-countdown-separator">:</div>
+                                    <div>
+                                        <div class="uk-countdown-number uk-countdown-minutes"></div>
+                                        <div class="uk-countdown-label uk-margin-small uk-text-center uk-visible@s">
+                                            Minutos
+                                        </div>
+                                    </div>
+                                    <div class="uk-countdown-separator">:</div>
+                                    <div>
+                                        <div class="uk-countdown-number uk-countdown-seconds"></div>
+                                        <div class="uk-countdown-label uk-margin-small uk-text-center uk-visible@s">
+                                            Segundos
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
                     </div>
                 </li>
             </ul>
@@ -751,7 +788,7 @@
                         <ul class='uk-navbar-nav'>
                             <li>
 
-                                <a class='uk-button-default uk-button-salmao-redondo' href="">Faça aqui sua inscrição</a>
+                                <a class='uk-button-default uk-button-salmao-redondo' href="../inscricao">Faça aqui sua inscrição</a>
                             </li>
 
                         </ul>

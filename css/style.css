@@ -26,8 +26,17 @@ p.depoimento{
     color:#FFF !important;
 }
 
+form{
+    background-color: #FFF;
+    padding: 100px;
+}
+
 .cardapioDiario h2{
     font-family: 'Vidaloka', serif;
+}
+
+.fundoBranco{
+    background-color: #FFF;
 }
 
 p.escrita{
@@ -35,7 +44,7 @@ p.escrita{
     line-height: 150%;
 }
 
-h1, h2.depoimento{
+h1.depoimento, h2.depoimento{
     font-family: 'Vidaloka', serif;
 }
 
